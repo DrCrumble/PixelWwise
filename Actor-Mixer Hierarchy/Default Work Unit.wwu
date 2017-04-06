@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{116B06C7-C241-4ACF-B055-EB1209A70130}" SchemaVersion="75">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{116B06C7-C241-4ACF-B055-EB1209A70130}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="truc" ID="{E70171DA-F017-4172-832C-03A0E316B1AC}" ShortID="734666033" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5DF7151A-08F8-4D30-893F-7AB64C91522E}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1691DF07-EC44-46DE-9E32-E6621CDDA04A}"/>
+						</Reference>
+					</ReferenceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
