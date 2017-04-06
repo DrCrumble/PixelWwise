@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	193712121	playtruc			\Default Work Unit\playtruc	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	382538270	truc	C:\Users\user\Desktop\projets\PixelJam\pixelchallenge\pixelchallenge_WwiseProject\.cache\Windows\SFX\tension1-001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\truc		7680064
+

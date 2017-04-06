@@ -16,5 +16,19 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\main</ObjectPath>
+			<ShortName>main</ShortName>
+			<Path>main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="193712121" Name="playtruc" ObjectPath="\Events\Default Work Unit\playtruc"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="382538270" Language="SFX">
+					<ShortName>tension1-001.wav</ShortName>
+					<Path>SFX\tension1-001_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

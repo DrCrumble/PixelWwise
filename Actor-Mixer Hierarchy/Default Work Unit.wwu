@@ -12,6 +12,15 @@
 							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1691DF07-EC44-46DE-9E32-E6621CDDA04A}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="tension1-001" ID="{9E01353D-A37D-4984-88A4-5B9B4B03A39B}" ShortID="382538270">
+							<Language>SFX</Language>
+							<AudioFile>tension1-001.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="tension1-001" ID="{9E01353D-A37D-4984-88A4-5B9B4B03A39B}" Platform="Linked"/>
+					</ActiveSourceList>
 				</Sound>
 			</ChildrenList>
 		</WorkUnit>
